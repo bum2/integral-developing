@@ -96,3 +96,7 @@ To reconnect with the internal artist of everyone (consciously), is required a l
 
 #### “The art of living is the art of learning how to look” ####
 
+&nbsp;
+
+(v0.1 of this article is published at http://sebastiafreixa.com/en/the-art-of-living )
+
