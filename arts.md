@@ -1,4 +1,4 @@
-# The Art of Living #
+# The Arts of Living #
 Searching a constructive attitude for a better world
 v0.1
 
@@ -98,5 +98,5 @@ To reconnect with the internal artist of everyone (consciously), is required a l
 
 &nbsp;
 
-(v0.1 of this article is published at http://sebastiafreixa.com/en/the-art-of-living )
+(v0.1 of this article is published at http://sebastiafreixa.com/en/the-arts-of-living )
 
