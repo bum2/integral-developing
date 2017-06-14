@@ -1,5 +1,5 @@
 # The Arts of Living #
-Searching a constructive attitude for a better world
+Developing a constructive attitude for a better world
 v0.1
 
 &nbsp;
@@ -35,7 +35,7 @@ There is also Conscious arts (full or empty) or Automatic arts (full or empty), 
 
 Also the level of skills involved can shape adjectives like Skilled or Non-skilled arts (or Talented), and many inbetweens (from newbie, initiated, etc, to professional or master). Beware that the skills concept is dangerous when is only related the conceptual part or theory about something, is much more trusted any skill level related practical experience (fruit of the factual 'doing' to solve real needs, or the direct 'experiencing'). 
 
-The “good” or “bad” valorations are usually subjective and relative to every situation and point of view (cannot be really common). They start as ego-centric sensations as a child, developing into etno-centric values (from cultural constructs inherited from society, the ones pressed-in by the economic interests, to the values of your affinity group, team, etc), and later the good-bad concepts develops hopefully into mundi-centric values (what is good for all humanity). In the best uses, 'good or bad' can be related to 'nutritive or not', but what matters is 'for who': the selfish ego, the affinity group or the whole human kind? 
+The “good” or “bad” valorations are usually subjective and relative to every situation and point of view (cannot be easily common). They start as ego-centric sensations as a child, developing into etno-centric values (from cultural constructs inherited from society, the ones pressed-in by the economic interests, to the values of your affinity group, team, etc), and later the good-bad concepts develops hopefully into mundi-centric values (what is good for all humanity). In the best uses, 'good or bad' can be related to 'nutritive or not', but what matters is 'for who': the selfish ego, the affinity group or the whole human kind? 
 (more about ethics at https://github.com/bum2/integral-developing/blob/master/ethics.md )
 
 For example, without even realizing rationally, children do art, plants do art, stones do art, water do art, atoms do art, planets do art, etc. All is performing Nutritive Arts except so many disconnected humans (egos), some of which are even skilled artists of manipulating and controlling. Even if some ill egos "enjoy" and “improve” that control, they never achieve or give satisfaction nor happiness.
@@ -47,7 +47,7 @@ Some examples:
 - 'The art of killing', even if enjoyed and improved (there's weird people), can be very 'bad' if is killing say other humans, but it can be ok if killing some mosquitoes in a summer night or getting rid of a plague at home, etc.
 - 'The art of resting', is a non-active art (from the 'not doing' branch) but you can simply rest or you can instead play the art of resting (recovering more energy better).
 - 'The art of giving', only when produces joy for the giver is nutritive to nature.
-- ... (more about data organization trees at https://github.com/bum2/integral-developing/blob/master/integral-data.md )
+- ... (more about data organization trees at https://github.com/bum2/integral-developing/blob/master/integral-data.md)
 
 
 &nbsp;
@@ -62,12 +62,12 @@ From the kind of attitude doing the arts, the resulting artworks will inherit th
 
 In the old conception of art and artwork (only done by “artists”, as a subgroup), some “artists” are Communicators of ideas, thoughts or emotions through their artworks. Lately most of this communicators are always signing their artworks. They show their artworks like a blogger publishes his posts and try to reach as much receivers as possible. It's the structure of a communicator, when you want to express something to everybody.
 
-Some other “artists” are anonymous, doing many things considered artwork and even communicating lot of stuff to an audience, but they're not interested in signing or reveal any personal identity (their ego is not involved). We find many examples in ancient arts, philosophies, spiritual graphics, tribal arts, zapatist arts, anonymous graffities, etc.
+Some other “artists” are anonymous, doing many things considered artwork and even communicating lot of stuff to an audience, but they're not interested in signing or promoting any personal identity (their ego is not involved). We find many examples in ancient arts, philosophies, spiritual graphics, tribal arts, zapatist arts, anonymous graffities, etc.
 
-In the old conception of art, the “non-artists” were the Makers or Doers (which produce the needed stuff for human living and development) and everyone else. No one is an artist apart from an elite. Normal human things were not considered artworks.
+In the old conception of art, the “non-artists” were the Makers or Doers (which produce the needed stuff for human living and development) and everyone else. No one was an artist apart from an elite. Normal human things were not considered artworks.
 Also “non-artists” were the Critics, with such an ego confusion that even a piece becomes or not an artwork depending on the consideration of the critic.
 
-In the new conception of Art and Artwork, everybody is an artist and everything can be seen as an artwork (even if we don't like it). Every art will have skilled masters which can teach to others about techniques, materials, tools, etc. Everybody can do healthy artworks in every thing, as long as they want. Everybody can Communicate ideas or feelings whenever they wish using any art to produce any artwork, but these ideas can be understood or not, nutritive or not-nutritive for the receivers. 
+In this new conception of Art and Artwork, everybody is an artist and everything can be seen as an artwork (even if we don't like it). Every art will have skilled masters which can teach to others about techniques, materials, tools, etc. Everybody can do healthy artworks in every thing, as long as they want. Everybody can Communicate ideas or feelings whenever they wish using any art to produce any artwork, but these ideas can be understood or not, nutritive or not-nutritive for the receivers. 
 
 Everybody will need to self-filter the receiving of people's messages inserted into artworks, prioritizing the more nutritive (if they want to be healthy). Also everybody will need to self-filter the artwork itself (apart from the optional “message” inserted) in terms of Quality or using the ethical values related their actual point of view or development stage. To be healthy, “quality” is first (values) and “quantity” is useful but secondary (success), as explained in https://github.com/bum2/integral-developing/blob/master/ethics.md .
 
