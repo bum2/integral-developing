@@ -98,5 +98,5 @@ To reconnect with the internal artist of everyone (consciously), is required a l
 
 &nbsp;
 
-(v0.1 of this article is published at http://sebastiafreixa.com/en/the-arts-of-living )
+(v0.1 of this article is published at http://sebastiafreixa.com/en/the-arts-of-living and now also at [steemit](https://steemit.com/life/@sebastia-freixa/the-arts-of-living-developing-a-constructive-attitude-for-a-better-world))
 
