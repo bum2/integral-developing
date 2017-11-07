@@ -8,7 +8,7 @@ If we find a common way of structuring data, a common database (decentralized, d
 
 Here is presented a first starting version of a structure, which is always a work-in-progress and everybody interested in this taxonomic or ontologic classifications is very welcome to join at OCP.
 
-The conceptual starting point of view assumed (explained at https://github.com/bum2/integral-developing/blob/master/arts.md ) can be resumed like:
+The conceptual starting point of view assumed (explained at https://github.com/IntegralDevs/integral-developing/blob/master/arts.md ) can be resumed like:
     
 <i>"All Verbs are Arts, which produce Artworks (resources, effects), performed and experienced in Space by Beings."</i> 
 
