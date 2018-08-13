@@ -1,4 +1,4 @@
-## The 'GeneralApp' Integral Data Structure:
+## An Integral Data Structure:
 
 With the actual state of evolution of human kind, we need some structures, as much common and shared as possible, to mitigate the complexity and the disconnection of humans due the separatistic forces of egos and the missunderstood plurality and freedom which produces liberal individuality and capitalism.
 
