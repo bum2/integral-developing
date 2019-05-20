@@ -4,6 +4,8 @@ aka:
 #### Distributed Common Data Network (DCDN)
 #### Distributed Open Collaborative Platform (DOCP)
 
+&nbsp;
+
 - The missing data sharing structure to improve the common good worldwide.
 - A huge common database to store all words and knowledge on a resilent, fast, scalable, opensource and distributed p2p system.
 - Be the owner of your data, and decide who has access to what about you. Stop feeding the buisness of data corporations that sell what they know about you.
@@ -12,21 +14,22 @@ aka:
 - An extensible modular multi-tool to search or contribute common useful information, to join or create teams and projects, to communicate with people, to donate, exchange, buy, sell or rent resources of any kind, and account them as a real common REA* stream of economic events.
 - The rise of an artificial common inteligence distributed platform, built by the people for the people.
 
+&nbsp;
+
 ## Index:
-Introduction
-What?
-Why?
-How?:
-- Governance
-- Technically
+- Introduction
+- What?
+- Why?
+- How?:
+  - Governance
+  - Technically
+- Layers:
+  - The backend layer
+  - The frontend layer
+- Human Teams
+- Milestones
 
-Layers:
-- The backend layer
-- The frontend layer
-
-Human Teams
-Milestones
-
+&nbsp;  
 
 ## Intro:
 The IntegralDevs Team, with the goals explained at https://github.com/IntegralDevs/integral-
@@ -74,6 +77,8 @@ to Telegram or WhatsApp for communication, a common file sharing system, a priva
 resilent vault for your personal heath data, a common AI and knowledge source which cannot be
 privatized nor transformed into a capitalistic business.
 
+&nbsp;
+
 ## What?
 Each app instance is internally a node of various types of p2p databases at the same time (a
 polyglot system), but integrated as a single and easy to use interface.
@@ -89,6 +94,8 @@ or groups) with various layers of encryption*.
 The tool can be used to improve many sides of people's life, by adding functionalities in the basic
 app as plugins, to manage personal or collective data about economic facts, about health,
 education, comunication, transport, manufacture, tasks, etc
+
+&nbsp;
 
 ## Why?
 The world needs resilient structures to share data as much as possible, to rise human
@@ -111,6 +118,8 @@ The development we are presenting here focuses instead in the building of a good
 database that can became the main source of many common data for many other platforms. Of
 course we will implement the used vocabs and protocols in the API in order to import or migrate
 data to or from this common database.
+
+&nbsp;
 
 ## How?
 ### Governance:
@@ -148,6 +157,7 @@ voting tool or a distributed decision-making system to improve governance and ga
 feedback, not only for the governance of the whole database network but also for the
 governance of every project or assembly managed there.
 
+&nbsp;
 ### Technically:
 The blockchain technology can be very good to store non-mutable private data like economic
 transactions, but for an agile management of other types of data we believe is better a
@@ -207,6 +217,8 @@ data, etc.
 ** The most of the Types of things can be common (and perhaps some particular subtypes used
 by a single project don’t need to be common).
 
+&nbsp;
+
 ## Layers:
 ### The backend layer:
 This meta project is based on flexibility and modularity in a radical way, and so, what we call 'the
@@ -255,6 +267,7 @@ hardcoded initial code and in another release make that engines easily updatable
 The goal is to make the basis generic enough to avoid needing updates of the app and rely as
 much as possible on 'code from the db' techniques (like did the Maid-SAFE network).
 
+&nbsp;
 ### The frontend layer:
 The GUI can be developed mainly as a multiplatform app, for mobiles and computers. We can
 develop also a web version if we find good ways to identify users safely enough and trust at least
@@ -296,6 +309,7 @@ Many more functionalities can be added by means of adding plugins to the app, av
 auto-installed) depending on the relations of the agent with different projects and her/his
 interests or working fields.
 
+&nbsp;
 
 ## Human Teams:
 
@@ -315,6 +329,7 @@ phylosophy of the IntegralDevs main project:
   - Communication team (improving the project's social connections, translations, etc)
   - Common Taxonomy team and sub-teams (improving-curating the basic main branches needed but mainly improving coordination of 'sectors of activity' in sub-teams to build consensus about common types or data useful in their sectors).
 
+&nbsp;
 
 ## Milestones:
 
@@ -351,6 +366,7 @@ Technically this first beta needs the node's backend functionality to:
 - load balance of partitioned data amongst peers by type and popularity: very used data types should be in many nodes to improve availability and db response speed
 - send notifications to users (at least via email)
 
+&nbsp;
 ### Milestone #2:
 In the second iteration or core code release we can include (once the first beta is
 tested and fixed enough to become 'stable') app plugins to:
@@ -367,6 +383,7 @@ This second milestone can allow then the migration of:
 - the communication tools like Signal, Telegram or Whatsapp can start to be less used to coordinate people
 - the social networks behaviours can be imitated and ported in this opensource sytem to stop using corporate solutions that make business with our data
 
+&nbsp;
 ### Milestone #3:
 In a third iteration or release we can include plugins to:
 
