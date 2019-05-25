@@ -38,7 +38,7 @@ This App is built totally modular, very simple when starting but extensible with
 
 This software wants to became a super-improved version (distributed, fast and highly scalable) of the Open Collaborative Platform (OCP), totally refactored with the best opensource technologies in the NoSQL databases field and the fastest programming languages to allow the infinite growing of the data size, and being capable of delivering fast queries (high availability).
 
-The first basic core function of the App is to provide a secure and private digital identity to agents. This agent identification is a process with various levels: it starts by confirming an email address and creating a cryptographic digital signature (like GPG), but more means of identification can be added to allow the use of certain features (e.g. to start a complete 'health' profile a physical biologic sample analysis of the person can be provided, to define some biologic facts and actual state of the agent's health).
+The first basic core function of the App is to provide a secure and private digital identity to agents. This agent identification is a process with various levels: it starts by confirming an email address and creating a cryptographic digital signature (like PGP), but more means of identification can be added to allow the use of certain features (e.g. to start a complete 'health' profile a physical biologic sample analysis of the person can be provided, to define some biologic facts and actual state of the agent's health).
 
 Once properly identified the person or agent, the App frontend can be used to build a profile (with public and private parts) and browse the network for things like:
 - finding and joining other projects,
@@ -94,25 +94,25 @@ The tool, thanks to its encryption and authentication system can be used one day
 
 &nbsp;
 ### Technically:
-The blockchain technology can be very good to store non-mutable private data like economic transactions, but for an agile management of other types of data we believe is better a distributed NoSQL database (choosing from http://nosql-database.org/), like a key-value store db for words, types and short texts, a key-doc store for long texts or code, and a p2p file sharing like IPFS or torrent for files.
+The blockchain technology can be very good to store non-mutable private data like economic transactions, but for an agile management of other types of data we believe is better an agent-centric system like HoloChain or a distributed NoSQL database (choosing from http://nosql-database.org/), like a key-value store db for words, types and short texts, a key-doc store for long texts or code, and a p2p file sharing like IPFS or torrent for files.
 
 The proposed App, in its first version, should allow to use the best db technology for the type of data being saved:
-- some of the economic events can be stored in a flexible blockchain (like FairChains) used as a [REA chain](/rea-chain.md), once there is consensus between the involved parts in an exchange.
+- some of the economic events can be stored in a flexible blockchain (like FairChains) used as a [REA chain](/rea-chain.md) (also doable with Holochain), once there is consensus between the involved parts in an exchange.
 - other economic events like transactions of the many cryptocurrencies around (starting by FairCoin) are already stored by their blockchains
 - the words of the languages and their translations (if exist), the types of resources, types of skills or arts, the names of locations and areas, the units and the unit ratios, and many other types of data can be better stored in a key-value distributed JSON datastore, like the core ddb of the app.
 - the images, the music, the videos and all heavy data is better stored and shared like in a p2p common filesystem.
 - the long texts, the code libs, templates, scripts, etc, can be stored better in a key-doc ddb
 
 To achieve this we need to join forces in harmonic dev teams and some key ingredients:
-- a super scalable multi DB system that is able to grow indefinitely by adding people’s nodes, (in a p2p style http://wiki.p2pfoundation.net/P2P_Networks )
+- a super scalable multi DB system that is able to grow indefinitely by adding people’s nodes (in a p2p style http://wiki.p2pfoundation.net/P2P_Networks ), like Holochain.
 - an integral data model that makes easy to manage the grow of the types of data and the relation between them (proposed [generic approach](/integral-data.md)), with ...
 - a set of widely consensued Common Resource Type Trees**, where representative agents of the different sectors of activity take care of organize and curate the needed and useful resource type branches and sub-types to use in all that sector (alimentation, comunication, etc) which is an organic, always mutable process, and this data partitioning in sectors and keywords allows us to develop...
 - an engine to analyze the network, update distributed indexes and balance the load by asking for more nodes helping in critical data sectors, and all this backend needs to be build with...
-- a fast enough functional language like Erlang, being Elixir the actual choice as framework, and all this needs to be easily managed from...
+- a fast enough functional language like Erlang (using Elixir) and/or Rust, and all this needs to be easily managed from...
 - an easy-to-use Graphical User Interface, that simplifies the ‘browserving’ and the configuration options, and allows...
 - a myriad of modules to add functionalities, pages and options to the basic App, in order to do a lot of things, using the best opensource code available worldwide.
 
-The data you browse or use from the ddb, cached in your device, is automatically served to other nodes by default, except private data or private browsing data, which defaults to no sharing but the agent can choose trusted peers to spread his encrypted private data only to their devices.
+The data you browse or use from the ddb, cached in your device, is automatically served to other nodes by default, except private data or private browsing data, which defaults to no-sharing but the agent can choose trusted peers to spread his encrypted private data only to their devices.
 
 The encryption of the agent’s personal data has different levels, like layers, depending on the relation between the browsing agent and the data creator agent. The app should offer from easy sets of privacy config options up to a more granular configuration of the privacy settings. For example the personal information about Health can be shared only with family, friends or few chosen organizations nodes, but in case of emergency any accredited doctor can gain access to it.
   
@@ -176,7 +176,8 @@ The main parts of the frontend are:
     - remunerated or exchangeable work (normally related an exchange),
     - search for tasks related your skills and search people with certain skills (if they stated that info as publically known)
   - this two economic GUIs are mostly readonly: to create new economic facts is needed special app-tools that are available or not depending on the user relations, the main source of permissions. For example:
-    - if the user agent is an active participant in a project like FairMarket or similar, then the UI tools to create a shop and define products becomes available.▪ if the user agent wants to join a cooperative, buying shares, the payment gateways options defined by the project became usable by the user (and manageable by the project's coordinators).
+    - if the user agent is an active participant in a project like FairMarket or similar, then the UI tools to create a shop and define products becomes available.
+    - if the user agent wants to join a cooperative, buying shares, the payment gateways options defined by the project became usable by the user (and manageable by the project's coordinators).
     - if the user demonstrates ownership of certain accounts (e.g. cryptocurrencies), the account managing options should appear in the economic UI (or links to the account manager tool if is a fiat or a not integrated yet currency)
     - if the user participates in projects with activated tasks and workflows, the needed tools to define the related tasks commitments and events appear available for regular users (or to define plans and process setups if the user is a coordinator of the project)
 - browserver: general search discovery of knowledge and network resources
@@ -224,7 +225,8 @@ The first big milestone in the roadmap will be a first usable beta version of th
 - joining projects (with moderated access or autojoin link),
 - exchanging resources (money to start with) for project's shares when they are needed for membership, that means...
   - having active payment gateways (defined by the projects),
-  - tracking of exchange transfers, commitments and events,◦ showing transfers status and allowing to edit payment status if user is coordinator of the project and the gateway is manual,
+  - tracking of exchange transfers, commitments and events,
+  - showing transfers status and allowing to edit payment status if user is coordinator of the project and the gateway is manual,
   - some payment gateways can be fully automated, like cryptocurrencies and, up to some degree, also the credit-cards.
 - communicate with the project coordinators (or candidates and members if the user is a coordinator), at least via chat
 - settings of the users data privacy, visibility and sharing scopes
@@ -250,7 +252,8 @@ Technically this first beta needs the node's backend functionality to:
 ### Milestone #2:
 In the second iteration or core code release we can include (once the first beta is tested and fixed enough to become 'stable') app plugins to:
 
-- allow projects to define other assets 'for sale' apart from membership shares, like cryptocurrencies directly or products of any kind• allow projects to define custom crowdfunding campaigns, with custom payment gateways, self-management tools, etc
+- allow projects to define other assets 'for sale' apart from membership shares, like cryptocurrencies directly or products of any kind
+- allow projects to define custom crowdfunding campaigns, with custom payment gateways, self-management tools, etc
 - communicate with other single users in a safe encrypted way using the app
 - communicate in group's private and public chats, (allowing the organisation and debates of every sectorial group, broad or small, in order for them to consensuate common sets of resource types, skill types, units and other stuff used in that sector of activity).
 
