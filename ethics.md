@@ -2,13 +2,13 @@
 
 The investigation about what is good or bad for the development of a human society, is an important subject for all cultures in the intent of building a common ethics.
 
-In old Greece, before falling under Roman empire, the word ETHOS was having two different meanings or concepts:
+In old Greece, the word ETHOS was having two different meanings or concepts:
 
-- <b>éthos:</b> was referring the <b>way of living</b>, the good or bad of the <b>Actions</b> of the people, and the solution was to build laws or norms that filters the actions as being good or bad. Thats the <b>Doing</b> realm of facts.
+- <b>Éthos:</b> was referring the <b>way of living</b>, the good or bad of the <b>Actions</b> of the people, and the solution was to build laws or norms that filters the actions as being good or bad. Thats the <b>Doing</b> realm of facts.
 
-- <b>êthos:</b> was instead referring the <b>way of being</b>, the good or bad of the <b>Attitudes</b> of the people, so not related the actions or doing but related to the <b>Being</b> realm.
+- <b>Êthos:</b> was instead referring the <b>way of being</b>, the good or bad of the <b>Attitudes</b> of the people, so not related the actions or doing but related to the <b>Being</b> realm.
 
-The whole second approach was totally suppressed from society when Roma ('amor' backwards) conquers Greece, rendering what became the latin Moral and all subsequent moral systems in many religions. Only regarding the Actions, ruled by Laws, and forgetting (intentionally) about the Attitudes or the being.
+The whole second approach was totally suppressed from society (intentionally?), rendering what became the latin Moral and all subsequent moral systems in many religions. Only regarding the Actions, ruled by Laws, and forgetting about the Attitudes or the being.
 
 Ancient Greeks understood that working on the Attitudes is first (because acts depend on them), and let the ruling of Actions as an off-chance (just in case), when everything else fails.
 
